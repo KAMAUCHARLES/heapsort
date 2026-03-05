@@ -1,5 +1,5 @@
 **Heap Sort Algorithm Implementation**
-This repository contains a C++ implementation of the **Heap Sort** algorithm. This project was completed as part of a file structures and algorithms assignment.
+This repository contains a C++ implementation of the **Heap Sort** algorithm (sortting 10Million items). This project was completed as part of a file structures and algorithms assignment.
 
 **Algorithm Description**
 Heap Sort is a comparison-based sorting technique based on a Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements.
